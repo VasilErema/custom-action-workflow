@@ -1,2 +1,2 @@
 # custom-action-workflow
-This is a workflow calling my custom action.
+This is a test repo with workflow calling my custom action.
